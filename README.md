@@ -1,19 +1,10 @@
 # TRACETOTREAT APP (MOBILE)
 
-LelanginAJA is a super app that will help you find auction items in Indonesia which can give you a realtime experience in participating in auctions comfortably and is supported by several features including:
-- Payment Gateway (Midtrans)
-- SocketIO (Realtime Websocket)
-- Firebase Realtime Database
-- Breeze Auth
-- Sanctum Permission
-- DHL UPS API
-- Laravel Debugbar
-- Cookie Consent
+Trace2Treat adalah platform promosi produk makanan belum terjual yang menawarkan solusi bagi dua masalah serius: food waste dan sampah plastik. Melalui kolaborasi dengan pelaku UMKM di bidang makanan, kami menghadirkan solusi yang menggabungkan keberlanjutan dan aksesibilitas. Trace2Treat memberikan solusi pengelolaan sampah yang berkelanjutan dengan melibatkan pelaku UMKM sebagai mitra utama. Dengan Trace2Treat customer memiliki kemudahan untuk mengakses makanan dengan harga terjangkau. Pelanggan dapat membayar dengan uang tunai atau e-money dan tukar sampah plastik. Ketika pelanggan memesan makanan, driver Trace2Treat juga akan mengambil sampah plastik yang telah dipisahkan oleh pelanggan. Sampah plastik ini kemudian diolah dan didaur ulang oleh pengepul mitra. Fokus bisnis Trace2Treat adalah memenuhi kebutuhan pekerja dan mahasiswa perkotaan dengan makanan yang memiliki harga terjangkau dengan konsep bisnis ramah lingkungan. Melalui aplikasi pengiriman makanan yang efisien, Trace2Treat menyediakan solusi yang nyaman, hemat biaya, dan berkelanjutan.
 
 
-Mobile (1)                                              |  Mobile (2)                                       |  Mobile (3)
-:------------------------------------------------------:|:------------------------------------------------: |:-----------------------------------------------:
-![MOBILE](preview/photo_2023-02-15_09-41-20.jpg)        |  ![MOBILE](preview/photo_2023-02-15_09-41-22.jpg) | ![MOBILE](preview/photo_2023-02-15_09-41-24.jpg)
+![MOBILE](assets/1.png)
+
 
 ## MOBILE 
 - run `flutter pub get`
