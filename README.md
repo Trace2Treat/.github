@@ -6,6 +6,20 @@ Trace2Treat adalah platform promosi produk makanan belum terjual yang menawarkan
 ![MOBILE](assets/1.png)
 ![MOBILE](assets/2.png)
 
+
+## ERD Aplikasi
+![MOBILE](assets/echobytes.png)
+
+
+## POSTMAN Documentation App 
+[Documentation](https://documenter.getpostman.com/view/15380804/2s9YsMBBqX)
+ 
+
+## Response Example Backend
+![MOBILE](assets/3.png)
+
+
+
 ## MOBILE 
 - run `flutter pub get`
 - run `flutter run`
