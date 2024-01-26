@@ -12,6 +12,7 @@ Trace2Treat adalah platform promosi produk makanan belum terjual yang menawarkan
 
 ![MOBILE](assets/1.png)
 ![MOBILE](assets/2.png)
+![MOBILE](assets/4.png)
 
 
 ## ERD Aplikasi
